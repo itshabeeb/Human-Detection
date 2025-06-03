@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DeepFace model weights and cache
+.deepface/
+
+# Logs
+*.log
+
+# Data and output
+*.csv
+*.h5
+*.sqlite3
+*.db
+
+# Camera cache
+*.avi
+*.mp4
+*.mov
